@@ -1,0 +1,62 @@
+body{
+  background-color: lightseagreen;
+}
+.heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color: lightsalmon;
+  }
+  .heading_div
+  {
+    background: lightsalmon ; 
+    border-radius: 20px; 
+    color: lightseagreen;
+    float: none;
+    padding: 10px;
+    font-weight: bold;
+  }
+  .test_image_and_result
+  {
+    font-size: 18px ;
+  }
+  img
+  {
+     width: 150px;
+  }
+  h3{
+    color: lightsalmon;
+  }
+  .mobilenet_div
+  {
+      background-color: lightseagreen;
+      color: lightsalmon;
+      font-weight: bold;
+  }
+  .result_parah_tag
+  {
+    box-shadow:5px 5px 5px lightseagreen;
+    font-size: 20px;
+  }
+  .result_parah_tag span{
+
+    white-space: pre-line;
+  }
+  canvas{
+    border: 5px solid lightseagreen;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px lightsalmon;
+    margin-top: 160px;
+  }
+  .copy_right_footer{
+
+    position: fixed;
+    bottom:0;
+    color:lightseagreen;
+    background-color: lightsalmon;
+    width:100%;
+    text-align: center;
+    line-height: 3;
+  }
+ 
